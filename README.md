@@ -1,6 +1,6 @@
 # SexyScript
 
-An abismally organized recoil script for rust, created with the help of my friend. This is not properly done, but it is one of the few public C++ recoil scripts supporting most/all guns with a gui. The overlay is trash, and I know that, don't confront me about it.
+An abismally organized recoil script for rust, created with a friend for fun. This is not properly done, but it is one of the few public C++ recoil scripts supporting most/all guns with a gui. The overlay is trash, and I know that, don't confront me about it.
 
 # Features
 
