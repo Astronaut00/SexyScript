@@ -15,6 +15,7 @@ After being present on unknowncheats for a very long time, this was never detect
 # Problems
 
 - May not work properly on certain computers for unknown/unclear reasons (the timer can be made more accurate for firing)
+- Very bad overlay that lags a lot
 
 # Improvements
 
