@@ -10,7 +10,7 @@ An abismally organized recoil script for rust, created with a friend for fun. Th
 
 # Can I get banned?
 
-After being present on unknowncheats for a very long time, this was never detected. Just VMP it and you should be fine. Most scripts are detected from EAC employees manually detecting them.
+After being present on unknowncheats for a very long time, this was never detected. Just VMP it and you should be fine. Most scripts are detected from EAC employees manually adding the script signatures to the detection database.
 
 # Problems
 
