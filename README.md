@@ -18,5 +18,5 @@ After being present on unknowncheats for a very long time, this was never detect
 
 # Improvements
 
-- Utilization of PostWindoMessage
+- Utilization of PostWindowMessage
 - More accurate timing scheme
